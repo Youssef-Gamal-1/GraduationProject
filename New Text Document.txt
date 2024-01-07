@@ -1,0 +1,6 @@
+- new tables (role,permission,role-file-permission,role-standard-permission,user-file-permission)
+- user must has at least 1 role (the default role is basic user)
+- role has permissions
+- permission actions (view,edit,delete,add,download,upload) **all **manage(view,add,edit,delete)
+- permission resources : (file,standard)
+- file types : (general,photo,course)
